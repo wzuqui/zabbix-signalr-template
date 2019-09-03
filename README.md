@@ -1,0 +1,1 @@
+# zabbix-signalr-template
